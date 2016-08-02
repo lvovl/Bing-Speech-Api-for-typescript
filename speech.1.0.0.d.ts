@@ -1,6 +1,6 @@
 // Type definitions for speech.1.0.0.js
 // Project: https://www.microsoft.com/cognitive-services/en-us/speech-api
-// Definitions by: [YOUR_NAME_HERE] <[YOUR_URL_HERE]> 
+// Definitions by: Chao Wang <https://github.com/lvovl>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 declare namespace Microsoft.ProjectOxford.SpeechRecognition{
 	// Microsoft.ProjectOxford.SpeechRecognition.MicrophoneRecognitionClient.!0
